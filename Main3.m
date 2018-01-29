@@ -1,0 +1,15 @@
+[w1,w2]=training3();
+y1=Classification3('DivietoTest1.png',w1,w2);
+y2=Classification3('DivietoTest2.png',w1,w2);
+y3=Classification3('DivietoTest3.png',w1,w2);
+y4=Classification3('ParkTest1.png',w1,w2);
+y5=Classification3('ParkTest2.png',w1,w2);
+y6=Classification3('ParkTest3.png',w1,w2);
+y7=Classification3('ParkTest4.png',w1,w2);
+y8=Classification3('ParkTest5.png',w1,w2);
+y9=Classification3('PedoneTest1.png',w1,w2);
+y10=Classification3('PedoneTest2.png',w1,w2);
+y11=Classification3('StopTest1.png',w1,w2);
+y12=Classification3('StopTest2.png',w1,w2);
+y13=Classification3('TransitoTest1.png',w1,w2);
+y14=Classification3('TwoTest1.png',w1,w2);
